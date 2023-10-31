@@ -6,7 +6,7 @@ function tocaSom(som) {
 }
 
 let controle = "tocar"
-if(comando == "tocar"){
+if(controle == "tocar"){
     alert("Áudio pronto para tocar");
 } else{
     alert("O áudio não está pronto")
